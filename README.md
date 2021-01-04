@@ -17,3 +17,6 @@ meszeget.tamas@gmail.com
 # youtube link:
 https://youtu.be/4ZaOlhNzBfk
 
+# Please be aware:
+The above listed video is not public on youtube, and we kindly ask anybody watching the video not to add it to any public playlists!
+
