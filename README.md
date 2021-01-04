@@ -12,3 +12,8 @@ the project was created in Google Colab
 
 with questions please contact us:
 meszeget.tamas@gmail.com
+
+
+#youtube link:
+https://youtu.be/4ZaOlhNzBfk
+
